@@ -1,0 +1,1 @@
+<?php header('location:'.URL.'auth/login') ?>
